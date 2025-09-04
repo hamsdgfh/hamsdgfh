@@ -51,8 +51,8 @@
 ---
 
 <div align="center">
-  <a href="mailto:[여기에 이메일 주소를 입력하세요]"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[여기에 GitHub 프로필 주소를 입력하세요]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:[smseok0104@gmail.com]"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://github.com/hamsdgfh]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="[여기에 블로그 주소를 입력하세요]"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </div>
 
