@@ -18,7 +18,7 @@
 ## 🎓 학력 (Education)
 ---
 **한신대학교 (Hanshin University)**
-- AISW계열 (20XX.XX ~ 재학중)
+- AISW계열 (2025.03 ~ 재학중)
 <br>
 
 ## 📚 스택 (Stacks)
