@@ -55,7 +55,7 @@
 
 ## 💻 주요 프로젝트 (Projects)
 
-### 🔹 [AI Learning Assistant](https://github.com/hamsdgfh/ai-learning-assistant)
+### 🔹 [AI Learning Assistant](Link)
 > **설명:** 사용자의 학습 패턴을 분석하여 맞춤 피드백을 제공하는 프로젝트  
 > **역할:** 백엔드 및 데이터 분석  
 > **기술 스택:** Python, Flask, OpenAI API
@@ -63,7 +63,7 @@
 ### 🔹 [C Study Repository](https://github.com/hamsdgfh/C-Algorithm-Study)
 > **설명:** C언어 알고리즘 학습 저장소  
 > **역할:** 알고리즘 구현 및 README 자동화 스크립트 작성  
-> **기술 스택:** C, Bash
+> **기술 스택:** C
 
 <br>
 
