@@ -8,9 +8,10 @@
   
 <p>한신대학교 AISW계열에 재학 중이며, 창의적인 아이디어를 기술로 구현하는 것을 좋아합니다.</p>
 <p>이곳에 저의 프로젝트와 학습 과정을 기록하고 공유합니다.</p>
-<br>
-<p><strong>[다양한 상황에서 유연하게 사고할 수 있습니다. 또한 맡은 일에 책임감을 가지고 끝까지 완수하며, 세부적인 부분까지 꼼곰히 점검하는 성실함을 갖추고 있습니다.]</strong></p>
+<p><strong>[다양한 상황에서 유연하게 사고할 수 있습니다. 또한 맡은 일에 책임감을 가지고 끝까지 완수하며, 세부적인 부분까지 꼼꼼히 점검하는 성실함을 갖추고 있습니다.]</strong></p>
 
+
+<sub>━ · · · · · · · · · · ━</sub>
 </div>
 
 ## 🧠 About Me
@@ -34,66 +35,107 @@
 
 ## 🛠️ 기술 스택 (Tech Stacks)
 
-### 💻 Languages
-...
+## 🛠️ 기술 스택 (Tech Stacks)
 
-### 🧰 Tools
-...
+<table>
+  <tr>
+    <td>
 
+**💻 Languages**  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+    </td>
+    <td>
+
+**🧰 Tools / Collaboration**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+
+    </td>
+  </tr>
+</table>
+
+  
 ### 🎨 Design / Collaboration
-...
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 🌱 현재 학습 중인 것 (Currently Learning)
----
-- [C Programming]
-- [학습 중인 기술이나 주제 2]
-- [학습 중인 기술이나 주제 3]
+## 🌱 현재 학습 중인 것 (Roadmap)
+- [ ] C
+- [ ] 알고리즘
+- [ ] Python
+- [ ] 웹 기초
 
 <br>
 
 ## 💻 주요 프로젝트 (Projects)
 
-### 🔹 [AI Learning Assistant](Link)
-> **설명:** 사용자의 학습 패턴을 분석하여 맞춤 피드백을 제공하는 프로젝트  
-> **역할:** 백엔드 및 데이터 분석  
-> **기술 스택:** Python, Flask, OpenAI API
+## 💻 주요 프로젝트 (Projects)
 
-### 🔹 [C Study Repository](https://github.com/hamsdgfh/C-Algorithm-Study)
-> **설명:** C언어 알고리즘 학습 저장소  
-> **역할:** 알고리즘 구현 및 README 자동화 스크립트 작성  
-> **기술 스택:** C
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI Learning Assistant</h4>
+      <p>사용자 학습 패턴을 분석하여 맞춤 피드백 제공</p>
+      <p><b>역할:</b> 백엔드 · 데이터 분석 &nbsp;|&nbsp; <b>스택:</b> Python, Flask, OpenAI API</p>
+      <a href="https://github.com/hamsdgfh/ai-learning-assistant">🔗 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>C Study Repository</h4>
+      <p>C언어 알고리즘 학습 및 문제풀이 저장소</p>
+      <p><b>역할:</b> 문제 해결 · 문서화 &nbsp;|&nbsp; <b>스택:</b> C</p>
+      <a href="https://github.com/hamsdgfh/C-Algorithm-Study">🔗 Repository</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=tokyonight" height="180em"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <img alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    <img alt="Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=default&hide_border=true&langs_count=10" height="170" />
+  </picture>
 </div>
 
-![snake gif](https://github.com/hamsdgfh/hamsdgfh/blob/output/snake.svg)
+<!-- Snake: 가로폭 자연스러운 확장 -->
+<p align="center">
+  <img alt="Snake animation" src="https://github.com/hamsdgfh/hamsdgfh/blob/output/snake.svg" width="100%" />
+</p>
 
 <br>
 
 ## 📞 연락처 (Contact)
 
----
-
-<div align="center">
-  <a href="mailto:smseok0104@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/hamsdgfh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[여기에 블로그 주소를 입력하세요]"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=blogger&logoColor=white"></a>
-</div>
+<p align="center">
+  <a href="mailto:smseok0104@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/hamsdgfh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://your-portfolio-or-notion-link"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
+</p>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer" />
-  <p>✨ Thank you for visiting my profile ✨</p>
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=70&section=footer" />
+  <sub>✨ Thank you for visiting my profile ✨</sub>
 </div>
