@@ -48,11 +48,10 @@
     <b>🧰 Tools / Collaboration</b><br><br>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </td>
 
   <td align="center" width="50%">
-  <b>🎨 Design / Collaboration</b><br><br>
+  <b>🎨 Design</b><br><br>
   <img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/><br>
   </td>
 </tr>
