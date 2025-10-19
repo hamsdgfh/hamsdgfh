@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=tokyonight" height="180em"/>
 </div>
 
-![snake gif](https://github.com/hamsdgfh/hamsdgfh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/hamsdgfh/hamsdgfh/blob/output/snake.svg)
 
 <br>
 
