@@ -80,8 +80,6 @@
 
 ## 💻 주요 프로젝트 (Projects)
 
-## 💻 주요 프로젝트 (Projects)
-
 <table>
   <tr>
     <td width="50%" valign="top">
