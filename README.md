@@ -36,8 +36,6 @@
 
 ## 🛠️ 기술 스택 (Tech Stacks)
 
-## 🛠️ 기술 스택 (Tech Stacks)
-
 <table>
   <tr>
     <td>
