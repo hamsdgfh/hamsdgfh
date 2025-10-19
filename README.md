@@ -11,7 +11,8 @@
 <p><strong>[다양한 상황에서 유연하게 사고할 수 있습니다. 또한 맡은 일에 책임감을 가지고 끝까지 완수하며, 세부적인 부분까지 꼼꼼히 점검하는 성실함을 갖추고 있습니다.]</strong></p>
 
 
-<sub>━ · · · · · · · · · · ━</sub>
+<div align="center">
+  <hr style="width:60%; border: 1px solid #94a3b8; border-radius: 5px;"/>
 </div>
 
 ## 🧠 About Me
