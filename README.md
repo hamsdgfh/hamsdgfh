@@ -36,32 +36,26 @@
 ## 🛠️ 기술 스택 (Tech Stacks)
 
 <table>
-  <tr>
-    <td>
+<tr>
+  <td align="center" width="50%">
+    <b>💻 Languages</b><br><br>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  </td>
 
-**💻 Languages**  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <td align="center" width="50%">
+    <b>🧰 Tools / Collaboration</b><br><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  </td>
 
-    HI
-
-**🧰 Tools / Collaboration**  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-
-    </td>
-    <td>
-  
-### 🎨 Design / Collaboration
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-    </td>
-  </tr>
+  <td align="center" width="50%">
+  <b>🎨 Design / Collaboration</b><br><br>
+  <img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/><br>
+  </td>
+</tr>
 </table>
 
 <br>
