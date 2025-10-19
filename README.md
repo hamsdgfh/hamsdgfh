@@ -13,7 +13,18 @@
 
 </div>
 
+## 🧠 About Me
+- 🌱 **도전을 즐기며 배우는 개발자 지망생**
+- 💡 **아이디어를 기술로 실현하는 과정**을 좋아합니다.
+- 🔍 코드의 세부적인 흐름을 이해하고, 개선점을 찾아내는 데 흥미를 느낍니다.
+- 🎯 목표: **AI + 소프트웨어 융합 분야**에서 창의적인 개발자가 되는 것
 <br>
+
+## ⚡ Highlights
+- 🧩 문제 해결 중심 사고 (Problem Solving)
+- 💬 명확한 커뮤니케이션과 협업
+- 🕹️ 실습 중심 학습과 꾸준한 기록
+- 🌍 새로운 기술 트렌드 탐구
 
 ## 🎓 학력 (Education)
 ---
@@ -21,16 +32,16 @@
 - AISW계열 (2025.03 ~ 재학중)
 <br>
 
-## 📚 스택 (Stacks)
-<!-- 여기에 사용하시는 기술 스택의 아이콘을 추가해 보세요. 예: https://shields.io/ -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <!-- 추가하고 싶은 다른 기술 스택을 여기에 추가하세요. -->
-</div>
+## 🛠️ 기술 스택 (Tech Stacks)
+
+### 💻 Languages
+...
+
+### 🧰 Tools
+...
+
+### 🎨 Design / Collaboration
+...
 
 <br>
 
@@ -42,23 +53,27 @@
 
 <br>
 
-## 💻 프로젝트 (Projects)
+## 💻 주요 프로젝트 (Projects)
 
----
+### 🔹 [AI Learning Assistant](https://github.com/hamsdgfh/ai-learning-assistant)
+> **설명:** 사용자의 학습 패턴을 분석하여 맞춤 피드백을 제공하는 프로젝트  
+> **역할:** 백엔드 및 데이터 분석  
+> **기술 스택:** Python, Flask, OpenAI API
 
-### 🔹 프로젝트 1: [프로젝트 이름]
-- **설명:** [여기에 프로젝트에 대한 간략한 설명을 입력하세요.]
-- **역할:** [예: 프론트엔드 개발, 백엔드 API 설계 등]
-- **기술 스택:** `[사용한 기술]`
-- **GitHub 링크:** [프로젝트 GitHub 주소 (선택 사항)]
+### 🔹 [C Study Repository](https://github.com/hamsdgfh/C-Algorithm-Study)
+> **설명:** C언어 알고리즘 학습 저장소  
+> **역할:** 알고리즘 구현 및 README 자동화 스크립트 작성  
+> **기술 스택:** C, Bash
 
-### 🔹 프로젝트 2: [프로젝트 이름]
-- **설명:** [여기에 프로젝트에 대한 간략한 설명을 입력하세요.]
-- **역할:** [예: 데이터 분석, 모델링 등]
-- **기술 스택:** `[사용한 기술]`
-- **GitHub 링크:** [프로젝트 GitHub 주소 (선택 사항)]
+<br>
 
-<!-- 더 많은 프로젝트를 추가할 수 있습니다. -->
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=tokyonight" height="180em"/>
+</div>
+
+![snake gif](https://github.com/hamsdgfh/hamsdgfh/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
