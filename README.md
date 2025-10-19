@@ -56,9 +56,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
     </td>
-  </tr>
-</table>
-
+    <td>
   
 ### 🎨 Design / Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
