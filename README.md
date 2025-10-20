@@ -91,16 +91,16 @@
 ## 📊 GitHub Stats
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <img alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" />
+    <img alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=hamsdgfh&show_icons=true&theme=default&hide_border=true&cache_seconds=7200&v=1" height="170" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-    <img alt="Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=default&hide_border=true&langs_count=10" height="170" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=7200&v=1" />
+    <img alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsdgfh&layout=compact&theme=default&hide_border=true&langs_count=10&cache_seconds=7200&v=1" height="170" />
   </picture>
 </div>
 
