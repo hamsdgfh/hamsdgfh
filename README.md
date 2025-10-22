@@ -23,7 +23,7 @@
 <br>
 
 ## ⚡ Highlights
-- 🧩 문제 해결 중심 사고 (Problem Solving)
+- 🧩 문제 해결 중심 사고
 - 💬 명확한 커뮤니케이션과 협업
 - 🕹️ 실습 중심 학습과 꾸준한 기록
 - 🌍 새로운 기술 트렌드 탐구
@@ -117,7 +117,7 @@
     <td width="50%" valign="top">
       <h4>information Website</h4>
       <p>포트폴리오 · 자기소개 웹사이트</p>
-      <p><b>역할:</b> 포트폴리오 &nbsp;|&nbsp; <b>스택:</b> HTML,CSS, OpenAI API</p>
+      <p><b>역할:</b> 포트폴리오 &nbsp;|&nbsp; <b>스택:</b> HTML,CSS</p>
       <a href="https://github.com/hamsdgfh/hamsdgfh_imformation">🔗 Repository</a>
     </td>
     <td width="50%" valign="top">
