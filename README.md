@@ -115,9 +115,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>information Website/h4>
+      <h4>information Website</h4>
       <p>포트폴리오 · 자기소개 웹사이트</p>
-      <p><b>역할:</b> 백엔드 · 데이터 분석 &nbsp;|&nbsp; <b>스택:</b> Python, Flask, OpenAI API</p>
+      <p><b>역할:</b> 포트폴리오 &nbsp;|&nbsp; <b>스택:</b> HTML,CSS, OpenAI API</p>
       <a href="https://github.com/hamsdgfh/hamsdgfh_imformation">🔗 Repository</a>
     </td>
     <td width="50%" valign="top">
