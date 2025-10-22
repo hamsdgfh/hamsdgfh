@@ -72,10 +72,53 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>AI Learning Assistant</h4>
-      <p>사용자 학습 패턴을 분석하여 맞춤 피드백 제공</p>
+      <h4>information Website/h4>
+      <p>포트폴리오 · 자기소개 웹사이트열 (2025.03 ~ 재학중)
+<br>
+
+## 🛠️ 기술 스택 (Tech Stacks)
+
+<table>
+<tr>
+  <td align="center" width="50%">
+    <b>💻 Languages</b><br><br>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  </td>
+
+  <td align="center" width="50%">
+    <b>🧰 Tools / Collaboration</b><br><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br>
+  </td>
+
+  <td align="center" width="50%">
+  <b>🎨 Design</b><br><br>
+  <img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/><br>
+  </td>
+</tr>
+</table>
+
+<br>
+
+## 🌱 현재 학습 중인 것 (Roadmap)
+- [ ] C
+- [ ] 알고리즘
+- [ ] Python
+- [ ] 웹 기초
+
+<br>
+
+## 💻 주요 프로젝트 (Projects)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>information Website/h4>
+      <p>포트폴리오 · 자기소개 웹사이트</p>
       <p><b>역할:</b> 백엔드 · 데이터 분석 &nbsp;|&nbsp; <b>스택:</b> Python, Flask, OpenAI API</p>
-      <a href="https://github.com/hamsdgfh/ai-learning-assistant">🔗 Repository</a>
+      <a href="https://github.com/hamsdgfh/hamsdgfh_imformation">🔗 Repository</a>
     </td>
     <td width="50%" valign="top">
       <h4>C Study Repository</h4>
