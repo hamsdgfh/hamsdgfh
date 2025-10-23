@@ -93,14 +93,6 @@
 
 <br>
 
-## 🌱 현재 학습 중인 것 (Roadmap)
-- [ ] C
-- [ ] 알고리즘
-- [ ] Python
-- [ ] 웹 기초
-
-<br>
-
 ## 💻 주요 프로젝트 (Projects)
 
 <table>
