@@ -67,15 +67,6 @@
 
 <br>
 
-## 💻 주요 프로젝트 (Projects)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>information Website</h4>
-      <p>포트폴리오 · 자기소개 웹사이트열 (2025.03 ~ 재학중)
-<br>
-
 ## 🛠️ 기술 스택 (Tech Stacks)
 
 <table>
