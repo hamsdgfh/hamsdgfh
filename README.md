@@ -129,10 +129,3 @@
 <div align="center">
   <img alt="footer" src="https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=70&section=footer" />
 </div>
-
-<br>
-
-<div align="center">
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=70&section=footer" />
-  <sub>✨ Thank you for visiting my profile ✨</sub>
-</div>
