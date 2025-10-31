@@ -64,7 +64,7 @@
 - 포트폴리오·자기소개 정적 사이트  
 - **스택:** HTML, CSS | **역할:** 개인 프로젝트  
 - 🔗 Repo: https://github.com/hamsdgfh/hamsdgfh_information
-- - 🖼️ 스크린샷: ![Information Website — 홈 데모](.assets/img/demo_hemo.png)
+- - 🖼️ 스크린샷: ![Information Website — 홈 데모](assets/img/demo_hemo.png)
 
 ---
 
@@ -73,10 +73,10 @@
 - **스택:** C | **역할:** 문제풀이/정리  
 - 🔗 Repo: https://github.com/hamsdgfh/c-algorithm-study
 
-- <details>
+<details>
 <summary><strong>추가 스크린샷 (펼치기)</strong></summary>
 
-![프로젝트 카드 — 데모](./assets/img/demo_cards.png)
+![프로젝트 카드 — 데모](assets/img/demo_cards.png)
 
 </details>
 
