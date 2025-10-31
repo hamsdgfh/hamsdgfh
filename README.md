@@ -126,6 +126,5 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseok%20Shin&fontSize=90"
-    style="transform: scaleY(-1); margin-top: -5px;"/>
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&reversal=true"/>
 </div>
