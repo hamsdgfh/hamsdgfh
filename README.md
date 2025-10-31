@@ -129,11 +129,3 @@
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff7e5f,100:feb47b&height=200&section=footer" />
 </div>
-
-<details>
-<summary><strong>📋 이메일 복사 (펼치기)</strong></summary>
-
-```text
-smseok0104@gmail.com
-
-</details> ```
