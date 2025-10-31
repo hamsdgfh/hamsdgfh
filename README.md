@@ -70,22 +70,18 @@
 
 ## 💻 주요 프로젝트 (Projects)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>information Website</h4>
-      <p>포트폴리오 · 자기소개 웹사이트</p>
-      <p><b>역할:</b> 포트폴리오 &nbsp;|&nbsp; <b>스택:</b> HTML,CSS</p>
-      <a href="https://github.com/hamsdgfh/hamsdgfh_imformation">🔗 Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>C Study Repository</h4>
-      <p>C언어 알고리즘 학습 및 문제풀이 저장소</p>
-      <p><b>역할:</b> 문제 해결 · 문서화 &nbsp;|&nbsp; <b>스택:</b> C</p>
-      <a href="https://github.com/hamsdgfh/C-Algorithm-Study">🔗 Repository</a>
-    </td>
-  </tr>
-</table>
+```markdown
+#### Information Website
+- 포트폴리오 · 자기소개 웹사이트  
+- **역할:** 포트폴리오 | **스택:** HTML, CSS  
+- 🔗 https://github.com/hamsdgfh/information-website
+
+---
+
+#### C Study Repository
+- C언어 알고리즘 학습 및 문제풀이 저장소  
+- **역할:** 문제 해결 · 문서화 | **스택:** C  
+- 🔗 https://github.com/hamsdgfh/C-Algorithm-Study
 
 <br>
 
