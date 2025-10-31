@@ -73,14 +73,14 @@
 ### Information Website
 - 포트폴리오·자기소개 정적 사이트  
 - **스택:** HTML, CSS | **역할:** 개인 프로젝트  
-- 🔗 Repo: https://github.com/hamsdgfh/information-website
+- 🔗 Repo: https://github.com/hamsdgfh/hamsdgfh_information
 
 ---
 
 ### C Study Repository
 - C 언어 알고리즘 학습 기록  
 - **스택:** C | **역할:** 문제풀이/정리  
-- 🔗 Repo: https://github.com/hamsdgfh/C-Algorithm-Study
+- 🔗 Repo: https://github.com/hamsdgfh/c-algorithm-study
 
 <br>
 
