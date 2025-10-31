@@ -64,7 +64,12 @@
 - 포트폴리오·자기소개 정적 사이트  
 - **스택:** HTML, CSS | **역할:** 개인 프로젝트  
 - 🔗 Repo: https://github.com/hamsdgfh/hamsdgfh_information
-- - 🖼️ 스크린샷: ![Information Website — 홈 데모](./assets/img/demo_home.png)
+<details>
+<summary><strong>🖼️ 스크린샷 (펼치기)</strong></summary>
+  
+![Information Website — 홈 데모](./assets/img/demo_home.png)
+
+</details>
 
 ---
 
@@ -74,7 +79,7 @@
 - 🔗 Repo: https://github.com/hamsdgfh/c-algorithm-study
 
 <details>
-<summary><strong>추가 스크린샷 (펼치기)</strong></summary>
+<summary><strong>🖼️ 스크린샷 (펼치기)</strong></summary>
 
 ![프로젝트 카드 — 데모](./assets/img/demo_cards.png)
 
