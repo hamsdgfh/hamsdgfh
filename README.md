@@ -70,18 +70,17 @@
 
 ## 💻 주요 프로젝트 (Projects)
 
-```markdown
-#### Information Website
-- 포트폴리오 · 자기소개 웹사이트  
-- **역할:** 포트폴리오 | **스택:** HTML, CSS  
-- 🔗 https://github.com/hamsdgfh/information-website
+### Information Website
+- 포트폴리오·자기소개 정적 사이트  
+- **스택:** HTML, CSS | **역할:** 개인 프로젝트  
+- 🔗 Repo: https://github.com/hamsdgfh/information-website
 
 ---
 
-#### C Study Repository
-- C언어 알고리즘 학습 및 문제풀이 저장소  
-- **역할:** 문제 해결 · 문서화 | **스택:** C  
-- 🔗 https://github.com/hamsdgfh/C-Algorithm-Study
+### C Study Repository
+- C 언어 알고리즘 학습 기록  
+- **스택:** C | **역할:** 문제풀이/정리  
+- 🔗 Repo: https://github.com/hamsdgfh/C-Algorithm-Study
 
 <br>
 
