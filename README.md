@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseok%20Shin&fontSize=90" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff7e5f,100:feb47b&height=200&section=header&text=Minseok%20Shin&fontSize=90" />
 </div>
 
 <div align="center">
@@ -126,5 +127,5 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&reversal=true"/>
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff7e5f,100:feb47b&height=200&section=footer" />
 </div>
