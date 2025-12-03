@@ -116,7 +116,6 @@
 <p align="center">
   <a href="mailto:smseok0104@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/hamsdgfh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://your-portfolio-or-notion-link"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
 </p>
 
 <br>
