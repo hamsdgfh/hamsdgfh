@@ -8,6 +8,7 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F75C7E&random=false&width=435&lines=Creative+Developer;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
+  <br>
   
   <a href="https://hits.sh/github.com/hamsdgfh/hamsdgfh/">
   <img alt="Hits" src="https://hits.sh/github.com/hamsdgfh/hamsdgfh.svg?style=flat-square&label=Hits&color=ff7e5f"/>
