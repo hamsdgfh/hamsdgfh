@@ -6,9 +6,9 @@
   <h3>👋 안녕하세요! 개발자를 꿈꾸는 신민석입니다.</h3>
   <p>한신대학교 AISW계열 재학 중 | 창의적인 아이디어를 기술로 구현합니다.</p>
   
-  <a href="https://github.com/hamsdgfh">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamsdgfh&count_bg=%23FF8F6A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
+  <a href="https://hits.sh/github.com/hamsdgfh/hamsdgfh/">
+  <img alt="Hits" src="https://hits.sh/github.com/hamsdgfh/hamsdgfh.svg?style=flat-square&label=Hits&color=ff7e5f"/>
+</a>
 </div>
 
 <br>
