@@ -69,29 +69,24 @@
 <br>
 
 ## 💻 Projects
-
-### 📂 Information Website
-> 포트폴리오·자기소개 정적 사이트
-- **Stack:** HTML, CSS
-- **Repo:** [hamsdgfh_information](https://github.com/hamsdgfh/hamsdgfh_information)
-<details>
-<summary><strong>🖼️ 스크린샷 보기</strong></summary>
-<br>
-<img src="./assets/img/demo_home.png" alt="Information Website Demo" width="100%">
-</details>
-
----
-
-### 📂 C Study Repository
-> C 언어 알고리즘 학습 및 문제 풀이 기록
-- **Stack:** C
-- **Repo:** [c-algorithm-study](https://github.com/hamsdgfh/c-algorithm-study)
-<details>
-<summary><strong>🖼️ 스크린샷 보기</strong></summary>
-<br>
-<img src="./assets/img/demo_cards.png" alt="C Study Demo" width="100%">
-</details>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📂 Information Website</h3>
+      <img src="./assets/img/demo_home.png" width="100%" /> <br><br>
+      <a href="https://github.com/hamsdgfh/hamsdgfh_information">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📂 C Study Repository</h3>
+      <img src="./assets/img/demo_cards.png" width="100%" /> <br><br>
+      <a href="https://github.com/hamsdgfh/c-algorithm-study">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
 
 ## 📞 Contact
