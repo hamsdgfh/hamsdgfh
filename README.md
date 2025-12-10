@@ -62,7 +62,7 @@
 <br>
 
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hamsdgfh/hamsdgfh/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hamsdgfh/hamsdgfh/output/snake.svg" width="100%" />
 </p>
 
 <br>
