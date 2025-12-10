@@ -71,19 +71,56 @@
 ## 💻 Projects
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>📂 Information Website</h3>
-      <img src="./assets/img/demo_home.png" width="100%" /> <br><br>
-      <a href="https://github.com/hamsdgfh/hamsdgfh_information">
-        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">📂 Information Website</h3>
+      <p align="center">
+        <strong>"나를 소개하는 정적 웹사이트"</strong>
+        <br>
+        포트폴리오 및 자기소개 페이지입니다.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      
+      <details>
+        <summary align="center"><strong>🖼️ 스크린샷 (Click)</strong></summary>
+        <br>
+        <img src="./assets/img/demo_home.png" width="100%" alt="Info Site Screenshot" />
+      </details>
+      
+      <br>
+      <div align="center">
+        <a href="https://github.com/hamsdgfh/hamsdgfh_information">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
-    <td align="center" width="50%">
-      <h3>📂 C Study Repository</h3>
-      <img src="./assets/img/demo_cards.png" width="100%" /> <br><br>
-      <a href="https://github.com/hamsdgfh/c-algorithm-study">
-        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github"/>
-      </a>
+
+    <td width="50%" valign="top">
+      <h3 align="center">📂 C Study Repository</h3>
+      <p align="center">
+        <strong>"기초부터 탄탄하게"</strong>
+        <br>
+        C 언어 알고리즘 풀이 및 학습 기록입니다.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Algorithm-FF0000?style=flat-square&logo=target&logoColor=white"/>
+      </p>
+      
+      <details>
+        <summary align="center"><strong>🖼️ 스크린샷 (Click)</strong></summary>
+        <br>
+        <img src="./assets/img/demo_cards.png" width="100%" alt="C Study Screenshot" />
+      </details>
+      
+      <br>
+      <div align="center">
+        <a href="https://github.com/hamsdgfh/c-algorithm-study">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
