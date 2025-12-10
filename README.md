@@ -82,13 +82,11 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
-      
       <details>
         <summary align="center"><strong>🖼️ 스크린샷 (Click)</strong></summary>
         <br>
         <img src="./assets/img/demo_home.png" width="100%" alt="Info Site Screenshot" />
       </details>
-      
       <br>
       <div align="center">
         <a href="https://github.com/hamsdgfh/hamsdgfh_information">
@@ -96,7 +94,6 @@
         </a>
       </div>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">📂 C Study Repository</h3>
       <p align="center">
@@ -108,13 +105,11 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/Algorithm-FF0000?style=flat-square&logo=target&logoColor=white"/>
       </p>
-      
       <details>
         <summary align="center"><strong>🖼️ 스크린샷 (Click)</strong></summary>
         <br>
         <img src="./assets/img/demo_cards.png" width="100%" alt="C Study Screenshot" />
       </details>
-      
       <br>
       <div align="center">
         <a href="https://github.com/hamsdgfh/c-algorithm-study">
